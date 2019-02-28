@@ -1,0 +1,25 @@
+body{
+	background: #383233;
+	color: white;
+	font-family: Tahoma;
+}
+h2.main{
+	color: #ed7300;
+	font-size: 400%;
+}
+
+.char{
+	color: #9aed00;
+}
+
+.title{
+	color: #b75bd8;
+}
+
+a{
+	color: #E04F4B;
+}
+
+img{
+	height: 400px;
+}
